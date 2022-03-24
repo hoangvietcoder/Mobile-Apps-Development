@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LAB1_EX3_2</string>
+    <string name="title_TextView">List of Radio Buttons for selection</string>
+    <string name="android_RadioButton">Android</string>
+    <string name="ios_RadioButton">IOS</string>
+    <string name="windows_RadioButton">Windows</string>
+    <string name="rim_RadioButton">RIM</string>
+    <string name="content_resultButton">Click here to see Result</string>
+    <string name="content_TextView">The following were selected...</string>
+</resources>

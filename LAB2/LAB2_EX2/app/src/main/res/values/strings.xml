@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LAB2_EX2</string>
+    <string name="content_TextView">Nhập đường link trang web</string>
+    <string name="content_EditText">https://it.tdtu.edu.vn/</string>
+    <string name="content_Button">Mở trình duyệt</string>
+</resources>

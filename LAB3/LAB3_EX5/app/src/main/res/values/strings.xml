@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAB3_EX5</string>
+    <string name="content_textViewTotal">Total users: 0</string>
+    <string name="content_buttonAdd">ADD 5 MORE USERS</string>
+    <string name="content_buttonRemove">REMOVE LAST 5 USERS</string>
+    <string name="user_textViewName">User 1</string>
+    <string name="email_textViewEmail">user1@tdtu.edu.vn</string>
+</resources>

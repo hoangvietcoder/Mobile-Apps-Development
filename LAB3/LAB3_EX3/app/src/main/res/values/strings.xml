@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAB3_EX3</string>
+    <string name="phone_icon">phone_icon</string>
+    <string name="content_buttonSelected">REMOVE SELECTED</string>
+    <string name="content_buttonAll">REMOVE ALL</string>
+    <string name="title_TextView">Hello World !!!</string>
+</resources>

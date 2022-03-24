@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LAB4_EX4</string>
+    <string name="title_TextView">PC1</string>
+    <string name="icon_ImageView">on_monitor</string>
+</resources>

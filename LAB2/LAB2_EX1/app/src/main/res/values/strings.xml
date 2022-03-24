@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LAB2_EX1</string>
+    <string name="content_main_TextView">Xin chào, vui lòng đăng nhập</string>
+    <string name="content_main_EditText">abc@gmail.com</string>
+    <string name="content_main_Button">ĐĂNG NHẬP</string>
+    <string name="content_second_Button">LƯU VÀ THOÁT</string>
+    <string name="content_second_EditText">Nhập tên</string>
+    <string name="content_second_TextView">Xin chào, vui lòng nhập tên</string>
+</resources>

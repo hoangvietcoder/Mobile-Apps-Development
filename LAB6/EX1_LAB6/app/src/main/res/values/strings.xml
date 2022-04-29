@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EX1_LAB6</string>
+    <string name="content_title">Số lần mở ứng dụng</string>
+    <string name="content_count">0</string>
+</resources>

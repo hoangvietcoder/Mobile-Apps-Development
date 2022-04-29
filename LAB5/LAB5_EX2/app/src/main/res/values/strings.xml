@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LAB5_EX2</string>
+    <string name="content_textViewTitle">Sinh hoạt chủ nhiệm</string>
+    <string name="content_textViewLocation">C120</string>
+    <string name="content_textViewDateTime">09/03/2020 04:43</string>
+    <string name="content_textInputEditTextName">Name</string>
+    <string name="content_textInputEditTextPlace">Place</string>
+    <string name="content_textInputEditTextDate">Date</string>
+    <string name="content_textInputEditTextTime">Time</string>
+    <string name="add">Add</string>
+    <string name="toggle">Toggle</string>
+    <string name="remove_all">Remove all</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="about">About</string>
+</resources>

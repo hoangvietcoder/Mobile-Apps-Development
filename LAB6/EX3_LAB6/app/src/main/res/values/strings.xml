@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EX3_LAB6</string>
+    <string name="date">Date</string>
+    <string name="place">Place</string>
+    <string name="time">Time</string>
+    <string name="du_an_cntt_2">Du an CNTT 2</string>
+    <string name="c120">C120</string>
+    <string name="_29_04_2022_21_00">29/04/2022 21:00</string>
+    <string name="save">Save</string>
+    <string name="add_event">Add Event</string>
+    <string name="remove_all">Remove All</string>
+    <string name="about">About</string>
+    <string name="switch_UI">Switch</string>
+</resources>

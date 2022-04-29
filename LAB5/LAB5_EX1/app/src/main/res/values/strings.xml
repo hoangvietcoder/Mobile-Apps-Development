@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LAB4_EX3</string>
+    <string name="phone_icon">phone_icon</string>
+    <string name="title_TextView">Hello World !!!</string>
+    <string name="content_buttonSelected">REMOVE SELECTED</string>
+    <string name="content_buttonAll">REMOVE ALL</string>
+    <string name="delete_all">Delete all</string>
+    <string name="check_all">Check all</string>
+    <string name="uncheck_all">Uncheck all</string>
+    <string name="delete_selected">Delete selected</string>
+</resources>

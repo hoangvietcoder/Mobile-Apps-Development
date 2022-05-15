@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:paddingBottom="18dp"
+  android:paddingLeft="18dp"
+  android:paddingRight="18dp"
+  android:paddingTop="18dp"
+  android:orientation="vertical"
+  tools:context=".SenderActivity" >
+
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:layout_gravity="center_horizontal"
+    android:text="Received Broadcasts" />
+  <Button
+    android:id="@+id/btnSendBroadcast"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:layout_gravity="center_horizontal"
+    android:text="Send Broadcast"
+    />
+  <EditText
+    android:id="@+id/etReceivedBroadcast"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    />
+
+</LinearLayout>

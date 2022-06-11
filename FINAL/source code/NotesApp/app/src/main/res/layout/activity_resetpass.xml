@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/bg_login"
+        android:paddingVertical="70dp"
+        android:text="@string/ResetPass"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="50dp"
+        android:fontFamily="cursive"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email:"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/black"/>
+
+    <EditText
+        android:id="@+id/emailReset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your email..."
+        android:padding="10dp"
+        android:textSize="14dp"
+        android:layout_marginHorizontal="30dp"
+        android:background="@drawable/note_item"
+        />
+
+    <Button
+        android:id="@+id/btn_reset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="20dp"
+        android:textSize="17dp"
+        android:text="Reset Pass"
+        android:textColor="@color/white"
+        android:background="@drawable/button_back"
+        />
+
+    <Button
+        android:id="@+id/btn_gotoLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="15dp"
+        android:textSize="17dp"
+        android:text="Go to Login"
+        android:textColor="@color/white"
+        android:background="@drawable/button_back"/>
+
+</LinearLayout>

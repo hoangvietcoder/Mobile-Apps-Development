@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="15dp"
+    android:padding="10dp"
+    android:background="@drawable/note_item">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="title"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_margin="4dp"
+            android:padding="2dp"
+            android:id="@+id/tv_title_item"/>
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@android:color/transparent"
+            android:id="@+id/moreoptions_btn"
+            android:padding="5dp"
+            android:src="@drawable/ic_baseline_more_horiz_24"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tag"
+        android:textSize="16sp"
+        android:textColor="@color/red"
+        android:textStyle="bold"
+        android:layout_margin="4dp"
+        android:padding="2dp"
+        android:id="@+id/tv_tag_item"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Notes"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:layout_margin="4dp"
+        android:padding="2dp"
+        android:id="@+id/tv_note_item"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:id="@+id/iv_notes_item"
+        android:scaleType="fitXY"
+        android:layout_margin="3dp"
+        android:visibility="gone"
+        />
+
+</LinearLayout>

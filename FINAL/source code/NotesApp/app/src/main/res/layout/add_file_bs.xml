@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bottom_back"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Image"
+        android:id="@+id/pickImage"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:padding="5dp"
+        android:layout_margin="3dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PPT"
+        android:id="@+id/pickppt"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:padding="5dp"
+        android:layout_margin="3dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Document"
+        android:id="@+id/pickDocument"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:padding="5dp"
+        android:layout_margin="3dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PDF"
+        android:id="@+id/pickPdf"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:padding="5dp"
+        android:layout_margin="3dp"/>
+
+</LinearLayout>
